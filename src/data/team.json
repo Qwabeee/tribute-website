@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Alice Mokoena",
+    "about": "Lead Developer",
+    "image": "/images/team-placeholder.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Thabo Dlamini",
+    "about": "UI/UX Designer",
+    "image": "/images/team-placeholder.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lerato Khumalo",
+    "about": "Project Manager",
+    "image": "/images/team-placeholder.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sizwe Ndlovu",
+    "about": "QA Engineer",
+    "image": "/images/team-placeholder.jpg"
+  }
+]
