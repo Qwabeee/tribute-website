@@ -6,7 +6,7 @@ const Hero = () => {
     <section
       className="h-screen bg-cover bg-center relative flex items-center justify-center text-center"
       style={{
-        backgroundImage: "url('/images/ezikamjebhula.jpg')",
+        backgroundImage: "url('https://i.postimg.cc/FFpQ6vBs/IMG-20250507-WA0013.jpg')",
       }}
       id="hero"
     >
