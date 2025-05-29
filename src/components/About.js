@@ -6,17 +6,17 @@ const About = () => {
     {
       title: "Chapter One",
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
-      image: "/images/placeholder.jpg",
+      image: "https://i.postimg.cc/QtDR6YgT/IMG-20250414-WA0001.jpg",
     },
     {
       title: "Chapter Two",
       text: "Cras pulvinar mattis nunc sed blandit libero volutpat sed cras ornare. In fermentum posuere urna nec tincidunt.",
-      image: "/images/placeholder.jpg",
+      image: "https://i.postimg.cc/3rnPBBkk/IMG-20250507-WA0020.jpg",
     },
     {
       title: "Chapter Three",
       text: "Aenean et tortor at risus viverra adipiscing at in tellus integer. Semper auctor neque vitae tempus quam.",
-      image: "/images/placeholder.jpg",
+      image: "https://i.postimg.cc/FFpQ6vBs/IMG-20250507-WA0013.jpg",
     },
   ];
 
